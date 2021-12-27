@@ -1,9 +1,9 @@
-![web developer](https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-6/s960x960/269766478_1096078027654176_1180782616566700961_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeESojx2hLOc8a3U2FL-W7hzmqZlMPAZRT-apmUw8BlFP3DN8qK9Y3PLApK-oxHkr1jtXJHLraj5gM4LsEHBW4tO&_nc_ohc=uSxFxrDA5-UAX_Kyeo-&_nc_ht=scontent.fdac116-1.fna&oh=00_AT_s4Quw9nzFqwWW7C2tAH1NldgfhhhBOzRWDJm4YpXTBQ&oe=61CF1711)
+![web developer](https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-6/s960x960/270099552_1095983287663650_8788550854694286353_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeF-IKfWZlUl-f6f1uP7WfiMaPnt-fEHnIBo-e358QecgJjFOgUCmYS4-DzoAnZplqyKOZ3RbcgbHCVtN1emTpka&_nc_ohc=KDNEpMfPT2wAX-2glcL&_nc_ht=scontent.fdac116-1.fna&oh=00_AT90Chcx8pU_nd9SYFGv5Hb37uiZgpMnedk-kIHV8H6rBg&oe=61CE462C)
 
 ### Hi there 👋, Hi i'm Sajib
 #### web developer
 
-hard worker,never giving up
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: REACT / JS / HTML / CSS
 
