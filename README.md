@@ -5,7 +5,7 @@
 
 hard worker, never giving up.
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / BOOTSTRAP
 
 - 🌱 I’m currently learning javascript 
 - 👯 I’m looking to collaborate on github 
